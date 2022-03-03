@@ -139,10 +139,6 @@ void replay(char *device, char *device2, struct input_event_and_dev *eventList, 
 	printf("Replay ended.\n");
 }
 
-
-/**
- * return 0 on quit, 1 to repeat
- */
 int waitKey(char *device)
 {
 	int fd = 0;
