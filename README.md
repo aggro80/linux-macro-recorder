@@ -24,7 +24,7 @@ sudo ./recorder
 
 Usage:
 - Press F8 to start recording, F4 to end it.
-- After recording, press F7 to repeat recorded events. Press any key from keybaord to abort execution.
+- After recording, press F7 to repeat recorded events. Press any key from keyboard to abort execution.
 - Press F9 to exit
 
 Warning/Disclaimer:
